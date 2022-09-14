@@ -1,5 +1,5 @@
 {
-	"author": "lamyLame",
+	"author": "Hardi prayoga",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -13,3 +13,5 @@
 		"url": "https://idontknow/todo.git"
 	}
 }
+
+
